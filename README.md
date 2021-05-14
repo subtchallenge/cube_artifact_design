@@ -1,5 +1,5 @@
 # Cube Enclosure Overview
-The enclosure of the Cube artifact comprises two parts: the Cube body and back plate. The Cube body mounts to the back plate and houses the Bluetooth radio, LED controller, and RGB LED strips.
+The enclosure of the Cube artifact comprises two parts: the Cube body and back plate. The Cube body mounts to the back plate and houses the Bluetooth radio, LED controller, and RGB LED strips. The embedded wireless radio is a Broadcom/Cypress BCM43438 chipset that supports Bluetooth 4.1.
 
 ![Cube_Artifact_Illuminated.png](Cube_Artifact_Illuminated.png)
 
