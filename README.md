@@ -35,6 +35,7 @@ The back plate is designed to be cut out of a ¼” thick sheet of clear acrylic
 
 **Cube RGB LED Assembly**: 
 
+Four LED strips containing 6 LED modules each are used to illuminated the Cube artifact. 
 
 ![Cube_Artifact_RGB_LED_Electrical_Schematic.PNG](Cube_Artifact_RGB_LED_Electrical_Schematic.PNG)
 
@@ -50,3 +51,12 @@ The back plate is designed to be cut out of a ¼” thick sheet of clear acrylic
 5. Press the “Mode/Demo” button to turn on the controller and activate Dynamic Mode, additional presses of the “Mode/Demo” button cycle through 19 Dynamic effects (See LED_Controller_Mode_List.PNG below). The specified dynamic color changing mode is noted as “2. Seven-color fade”. Note: this mode can be seen in [Cube_Video.mp4](Cube_Video.mp4).
 
 ![LED_Controller_Mode_List.PNG](LED_Controller_Mode_List.PNG)
+
+
+6. The strips are mounted to 3d-printed (transparent white ABS material) arc-shaped brackets that attach along the edges of an acrylic shelf that fits inside the cube and is held in place by the backplate. Please reference the included [Cube_Artifact_Assembly.STEP](Cube_Artifact_Assembly.STEP) file and figures below.
+
+![Cube_Artifact_Assy_Bottom_ISO.PNG](Cube_Artifact_Assy_Bottom_ISO.PNG)
+
+![Cube_Artifact_Assy_Bottom.PNG](Cube_Artifact_Assy_Bottom.PNG)
+
+![Cube_Artifact_Internal_Shelf_ISO.PNG](Cube_Artifact_Internal_Shelf_ISO.PNG)
